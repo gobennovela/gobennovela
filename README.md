@@ -5,7 +5,7 @@ About me: A purpose-driven and self-motivated frontend developer, working at the
 - 🔭 I’m currently working on a very interesting e-commerce platform
 - 🌱 I’m currently exploring the blockchain ecosystem
 - 👯 I’m looking to collaborate on open source next js projects
-- 🤔 I’m looking for help with CTO roles
+- 🤔 I’m looking for help with creative frontend roles
 - 💬 Ask me about product design, design systems and more
 - 📫 How to reach me: (gobennovela@gmail.com)
 - 😄 Pronouns: give/me/money
