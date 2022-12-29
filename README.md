@@ -6,7 +6,7 @@
 - If you're memorable or not
 - demigod digitizing
 
-<h3> Technology stack </h3>
+<h3> Technology Stacks </h3>
 
 - Language: Next.js
 - Microinteractions: GSAP, Three.js
