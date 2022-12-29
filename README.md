@@ -1,13 +1,18 @@
-### Hi there 👋
+<h2> Ben ✪ </h2>
 
-About me: A purpose-driven and self-motivated frontend developer, working at the intersection of product strategy, product design and frontend development with a long-standing record of innovation. I am a strong cross-functional partner, a great communicator, and able to take a solution from idea to implementation. I've worked with Javascript, React, Next JS, Three JS, Dart & Flutter etc
+#### Who? 
+- The virtuoso
+- If you're memorable or not
+- demigod digitizing
 
-- 🔭 I’m currently working on a very interesting platform
-- 🌱 I’m currently exploring the blockchain ecosystem
-- 👯 I’m looking to collaborate on open source next js projects
-- 🤔 I’m looking for help with creative frontend roles
-- 💬 Ask me about product design, design systems and more
-- 📫 How to reach me: (gobennovela@gmail.com)
-- 😄 Pronouns: give/me/money
-- ⚡ Fun fact: I love money. ⚡
+#### Technology stack
+- Language: Next.js
+- Microinteractions: GSAP, Three.js
+- Headless CMS: Sanity
+- DBMS: MongoDB
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=gobennovela" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=2&theme=dracula&hide_border=false&username=gobennovela" height="150" alt="languages graph"  />
+</div>
 
