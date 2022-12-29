@@ -1,11 +1,11 @@
 <h2> Ben ✪ </h2>
 
-#### Who? 
+<h3> Who? </h3>
 - The virtuoso
 - If you're memorable or not
 - demigod digitizing
 
-#### Technology stack
+<h3> Technology stack </h3>
 - Language: Next.js
 - Microinteractions: GSAP, Three.js
 - Headless CMS: Sanity
